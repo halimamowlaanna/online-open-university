@@ -1,0 +1,21 @@
+.banner {
+  background: url("https://www.elegantthemes.com/blog/wp-content/uploads/2016/11/education-themes.jpg");
+  height: 300px;
+  width: 100%;
+}
+.banner-txt {
+  position: relative;
+  left: 50px;
+  top: 200px;
+  background-color: rgb(59, 55, 55);
+  color: white;
+  box-shadow: 10px 10px 5px grey;
+}
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  padding: 10px;
+  height: auto;
+  text-align: center;
+}

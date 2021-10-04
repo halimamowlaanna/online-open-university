@@ -1,0 +1,31 @@
+[
+    {
+      "key":1,
+      "deptName":"CSE",
+      "totalCost":10000,
+      "totalCredit":160,
+      "image":"https://www.amrita.edu/sites/default/files/styles/news_banner_imagesbreakpoints_theme_norma_tablet_1x/public/why-cse-isnt-the-only-option-engineers.jpg?itok=0x5YUIH7&timestamp=1621076199"
+    },
+    {
+      "key":2,
+      "deptName":"EEE",
+      "totalCost":8000,
+      "totalCredit":156,
+      "image":"https://2.bp.blogspot.com/-mapczLNAQgw/WWePnKj9ZlI/AAAAAAAABlI/rW-wKpf8zFsHHpQMckjoNZcK_EQjUGE4gCLcBGAs/s1600/eee.jpg"
+    },
+    {
+      "key":3,
+      "deptName":"LAW",
+      "totalCost":6000,
+      "totalCredit":150,
+      "image":"https://dept.jnu.ac.bd/assets/slider/31.jpg"
+    },
+    {
+      "key":4,
+      "deptName":"BBA",
+      "totalCost":5000,
+      "totalCredit":155,
+      "image":"http://www.brainwareuniversity.ac.in/blog/wp-content/uploads/2017/12/bba-620x414.jpg"
+    }
+    
+  ]
