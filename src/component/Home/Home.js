@@ -12,7 +12,7 @@ const Home = () => {
     return (
         <div>
             <div className="banner">
-            <h3><span className="banner-txt">Best Online Education Services</span></h3>
+            <h3><span className="banner-txt">Online Open University</span></h3>
             </div>
             <h2 className="text-center my-3 ">Popular Courses</h2>
             <hr />
