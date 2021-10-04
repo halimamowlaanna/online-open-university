@@ -13,7 +13,8 @@ const About = () => {
                 <h5 className="text-danger fw-bold">Mr. Kim</h5>
             </div>
             <div>
-            <p className="p-5">Mr. Kim is the founder of of this open university.Our vision is to serve the people via online.This is a open university.Age is not a barier here.Anyone can join this online graduation system.We offer the most demandable courses</p>
+            <p className="p-5">
+                Mr. Kim is the founder of of this open university.Our vision is to serve the    people via online.This is a open university.Age is not a barier here.Anyone can join this online graduation system.We offer the most demandable courses</p>
             </div>
         </div>
         </div>

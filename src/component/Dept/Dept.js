@@ -10,7 +10,6 @@ const Dept = (props) => {
             <h3 className="pt-3">{deptName}</h3>
             <p>credit offers{totalCredit}</p>
             <h3 className="text-danger">${totalCost}</h3>
-
         </div>
     );
 };

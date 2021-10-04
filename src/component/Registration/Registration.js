@@ -5,8 +5,9 @@ import './Registration.css'
 const Registration = () => {
     return (
         <div className="container form-box">
+          <h2 className="py-3 text-center text-danger">Registration</h2>
             <Form >
-      <Row className="mb-3">
+        <Row className="mb-3">
         <Form.Group as={Col} md="4" controlId="validationCustom01">
           <Form.Label>First name</Form.Label>
           <Form.Control
