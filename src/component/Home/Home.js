@@ -18,6 +18,7 @@ const Home = () => {
         <div>
             <div className="banner">
             <h3><span className="banner-txt">The Open University</span></h3>
+            {/* <p className="sub-banner-txt">Where the dream begins</p> */}
             </div>
             <h2 className="text-center my-3 ">Popular Courses</h2>
             <hr />

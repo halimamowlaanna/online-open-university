@@ -1,11 +1,9 @@
 .dept {
-  background-color: lemonchiffon;
-  border: 2px solid yellow;
+  background-color: white;
+  border: 1px solid lightgray;
   text-align: center;
   width: 300px;
   height: 400px;
-  /* padding: 20px; */
-  /* margin: 20px; */
 }
 .dept img {
   width: 100%;
