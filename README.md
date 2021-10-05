@@ -1,4 +1,4 @@
-# Online Open University<h1>
+# The Open University<h1>
 
 [Click here to visit the site](https://online-open-university.netlify.app/)
 
